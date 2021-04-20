@@ -2,7 +2,7 @@
 
 Quiz flutter application 
 
-## Look like .......
+## Looks like .......
 <p float = "left">
   <img width="250" alt="Screen Shot 2021-04-20 at 5 11 21 PM" src="https://user-images.githubusercontent.com/12158468/115387248-39e3e800-a1fc-11eb-80da-389979645cd5.png">
 
